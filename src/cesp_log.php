@@ -7,7 +7,7 @@
 function cesp_log(string $action = null): array
 {
   static $data = [
-    'version' => '2025.3',
+    'version' => '2025.4',
     'memory_usage_start' => 0,
     'memory_usage_end' => 0,
     'memory_usage_delta' => 0,

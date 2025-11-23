@@ -1,5 +1,7 @@
 # cesp
 
+Code Execution &amp; Structure Profiler for PHP
+
 ## Overview
 
 `cesp_log` is a lightweight single-function **Code Execution &amp; Structure Profiler**
