@@ -1,11 +1,13 @@
 <?php
 
-/* CESP, Copyright (c) Andrea Davanzo, License MPL v2.0 */
+// CESP - https://github.com/andreadavanzo/cesp
+// SPDX-License-Identifier: MPL-2.0
+// Copyright Andrea Davanzo and contributors
 
 function cesp_log(string $action = null): array
 {
   static $data = [
-    'version' => '2025.2',
+    'version' => '2025.3',
     'memory_usage_start' => 0,
     'memory_usage_end' => 0,
     'memory_usage_delta' => 0,
